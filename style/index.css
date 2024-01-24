@@ -1,0 +1,20 @@
+html,body{
+     font-style: normal;
+     font-family: 'Times New Roman', Times, serif;
+     padding: 10%;
+     margin: 2;
+     color:blue;
+}
+header{
+    
+    border-bottom: 2px solid;
+    padding: 30px;
+    text-align: center;
+    background-color: forestgreen;
+    color: beige;
+    font-size: 30px;
+}
+img{
+    border-radius: 8px;
+    border-radius: 50%;
+}
